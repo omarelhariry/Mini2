@@ -6,17 +6,17 @@ Direct3D:
     Vendor:   Intel
     VRAM:     2111 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.534 seconds
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\spidey_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\oessa_000\Documents\GUC\Semester 9\ACL\Projects\Mini Project 2\Game\spidey_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -41,7 +41,7 @@ Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
  
 (Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
 
-UnloadTime: 1.291362 ms
+UnloadTime: 0.866817 ms
 Cooking::cookConvexMesh: user-provided hull must have less than 256 vertices!
  
 (Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 278)
@@ -63,11 +63,59 @@ Gu::ConvexMesh::loadConvexHull: convex hull init failed! Try to use the PxConvex
 (Filename: ..\..\PhysXCooking\src\convex\ConvexMeshBuilder.cpp Line: 266)
 
 Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2dbc -> priority: 1 
 True
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-  Thread -> id: 2da8 -> priority: 1 
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
 False
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
